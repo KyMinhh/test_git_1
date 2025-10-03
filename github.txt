@@ -1,1 +1,3 @@
 init project
+
+them label user name, textbox user name 
