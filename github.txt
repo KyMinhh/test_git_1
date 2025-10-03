@@ -4,3 +4,7 @@ them label ten dang nhap, textbox user name
 them label mat khau, textbox mat khaup
 btn dangphap
 
+if username = admin && password == admin 
+    pass
+
+
