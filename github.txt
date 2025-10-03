@@ -1,4 +1,4 @@
 init project
 
-them label user name, textbox user name 
+them label ten dang nhap, textbox user name 
 them label mat khau, textbox mat khau
